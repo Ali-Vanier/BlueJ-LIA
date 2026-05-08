@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MultiPlayer
+comment0.text=\r\n\ Represents\ a\ multiplayer\ game.\r\n\ Authors\:\ Muhammad\ Ali\ Babar\ &\ Julius\ Lightburn\r\n
+comment1.params=title\ genre\ platform\ maxPlayers
+comment1.target=MultiPlayer(java.lang.String,\ Genre,\ Platform,\ int)
+comment2.params=
+comment2.target=int\ getMaxPlayers()
+comment3.params=maxPlayers
+comment3.target=void\ setMaxPlayers(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

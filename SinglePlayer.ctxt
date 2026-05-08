@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SinglePlayer
+comment0.text=\r\n\ Represents\ a\ single\ player\ game.\r\n\ Authors\:\ Muhammad\ Ali\ Babar\ &\ Julius\ Lightburn\r\n
+comment1.params=title\ genre\ platform\ difficultyLevel
+comment1.target=SinglePlayer(java.lang.String,\ Genre,\ Platform,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDifficultyLevel()
+comment3.params=difficultyLevel
+comment3.target=void\ setDifficultyLevel(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

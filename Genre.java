@@ -1,9 +1,8 @@
-
 /**
- * Enumeration class Genre - write a description of the enum class here
+ * Enumeration of available game genres.
  *
- * @author (your name here)
- * @version (version number or date here)
+ * @author Muhammad Ali Babar & Julius Lightburn
+ * @version 2026
  */
 public enum Genre
 {

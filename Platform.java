@@ -1,9 +1,9 @@
 
 /**
- * Enumeration class Platform - write a description of the enum class here
+ * Enumeration of available game platforms.
  *
- * @author (your name here)
- * @version (version number or date here)
+ * @author Muhammad Ali Babar & Julius Lightburn
+ * @version 2026
  */
 public enum Platform
 {
