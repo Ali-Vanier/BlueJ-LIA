@@ -2,7 +2,7 @@ PROJECT TITLE:
 Game Library Manager
 
 PURPOSE OF PROJECT:
-This project is a text-based game library application. It lets users manage a collection of video games. You can add games, rate them, filter them by genre or platform, and track how long you played them.
+This project is a text-based game library application. It lets users manage a collection of video games. You can add games, rate them, filter them by genre or platform and track how long you played them.
 
 VERSION or DATE:
 May 2026
