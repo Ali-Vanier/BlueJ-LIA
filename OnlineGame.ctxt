@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OnlineGame
+comment0.text=\r\n\ Represents\ an\ online\ multiplayer\ game.\r\n\ Authors\:\ Muhammad\ Ali\ Babar\ &\ Julius\ Lightburn\r\n
+comment1.params=title\ genre\ platform\ maxPlayers\ internetRequired
+comment1.target=OnlineGame(java.lang.String,\ Genre,\ Platform,\ int,\ boolean)
+comment2.params=
+comment2.target=boolean\ getInternetRequired()
+comment3.params=internetRequired
+comment3.target=void\ setInternetRequired(boolean)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

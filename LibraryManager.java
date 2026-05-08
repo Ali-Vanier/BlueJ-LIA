@@ -64,7 +64,12 @@ public class LibraryManager
 
         return total / games.size();
     }
-
+    
+    public ArrayList<Game> getGames()
+    {
+        return games;
+    }
+    
     public String toString()
     {
         return "Library has " + games.size() + " games.";
