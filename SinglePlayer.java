@@ -1,15 +1,29 @@
-
 /**
- * Write a description of class SinglePlayer here.
- *
+ * Represents a single player game.
  * Authors: Muhammad Ali Babar & Julius Lightburn
- * @version (a version number or a date)
  */
 public class SinglePlayer extends Game
 {
     private String difficultyLevel;
-    public SinglePlayer(String title,Genre genre, String difficulty){
-        super(title, genre);
-        this.difficultyLevel=difficulty;
+
+    public SinglePlayer(String title, Genre genre, Platform platform, String difficultyLevel)
+    {
+        super(title, genre, platform);
+        this.difficultyLevel = difficultyLevel;
+    }
+
+    public String getDifficultyLevel()
+    {
+        return difficultyLevel;
+    }
+
+    public void setDifficultyLevel(String difficultyLevel)
+    {
+        this.difficultyLevel = difficultyLevel;
+    }
+
+    public String toString()
+    {
+        return super.toString() + " | Difficulty: " + difficultyLevel;
     }
 }
