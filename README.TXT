@@ -33,3 +33,20 @@ Type the number of the option you want and press Enter.
 8 - See all your past game sessions
 9 - Add your own game to the library
 0 - Exit the program
+
+
+HOW TO RUN OUTSIDE OF BLUEJ:
+
+Requirements:
+- Java must be installed on your computer
+- You can download it at https://www.java.com/en/download/
+
+Steps:
+1. Open a terminal or command prompt
+2. Navigate to the project folder using the cd command
+   Example: cd C:\Users\YourName\BlueJ-LIA
+3. Compile all the java files by typing:
+   javac *.java
+4. Run the program by typing:
+   java Main
+5. The menu will appear and you can start using the program
